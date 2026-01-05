@@ -1,15 +1,20 @@
 ## Introduction
-Includes basic optimizations and partial OptiFine features, making the game more comfortable to play.
+Includes basic optimizations and partial OptiFine features, making the game more comfortable to play.  
+Version numbers follow the format **x.y.z**:  
+- **x** = Major changes (large-scale adjustments, addition or removal of functional mods).  
+  If **x = 0**, it indicates a test version (usually labeled Alpha or Beta).  
+- **y** = Minor changes (addition or removal of optimization mods).  
+- **z** = Bug fixes or mod updates.
 
 ## Requirements
 - Java 22 or above  
-  >> If you don’t want to install Java 22 or higher, please remove the mod **C2ME**.  
+  > If you don’t want to install Java 22 or higher, please remove the mod **C2ME**.  
   In that case, Java 21 or above is still required.  
 - Recommended: Install Java 25, since Minecraft versions after **26.1-snapshot-1** require Java 25.  
 - If you are on mobile and encounter issues, please troubleshoot on your own.
 
 ## Mod Notes
->> If you don’t understand or know how to use a mod, check [Modrinth](https://modrinth.com).  
+> If you don’t understand or know how to use a mod, check [Modrinth](https://modrinth.com).  
 
 1. **C2ME (Chunk optimization)**  
    Requires Java 22 or above.  
