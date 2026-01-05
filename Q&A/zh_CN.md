@@ -1,8 +1,8 @@
 ## 废话介绍
 包含基础优化及 OptiFine 部分功能，让你玩的比较舒服的整合包。  
 版本号格式为x.y.z:  
+- 如果更新 Minecraft 版本，版本号将会重置。  
 - **x** :重要更改(大规模调整，功能性模组的增减)，  
-  为0则是测试版(通常会标注Alpha或Beta).
 - **y** :小调整(优化模组的增减).
 - **z** : bug修复或模组更新.
 
@@ -38,7 +38,7 @@
 4. **caramelChat (输入法模组)**  
    Windows 用户可跳过。  
    部分 Linux、macOS 不兼容，可能导致系统卡死，请删除。  
-   可查看该模组的 GitHub 页面进行系统设置。  
+   可查看该模组的 [GitHub 页面](https://github.com/LemonCaramel/caramelChat) 进行系统设置。  
 
 ### QA
 - **Q: 为什么不用 Voxy 而是 DistantHorizons?**  
