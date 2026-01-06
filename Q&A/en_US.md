@@ -6,7 +6,7 @@
 ## Introduction
 Includes basic optimizations and partial OptiFine features, making the game more comfortable to play.  
 Version numbers follow the format **x.y.z**:  
-- If the Minecraft version is updated, the version number will be reset.  
+- If the Minecraft version is updated, the version number will not be reset.  
 - **x** = Major changes (large-scale adjustments, addition or removal of functional mods).   
 - **y** = Minor changes (addition or removal of optimization mods).  
 - **z** = Bug fixes or mod updates.
