@@ -8,7 +8,7 @@
 A repository for storing my miscellaneous items.
 You are welcome to open any issues.  
 This repository is currently mainly used for the Minecraft **BasicOptimized** modpack.  
-Similar to **Fabulously Optimized**, but with other mods added to enhance the gaming experience.
+Similar to **Fabulously Optimized**, but with other mods added to enhance the gaming experience.  
 Watch ["Q&A"](https://github.com/HowSberban/Something/blob/main/Q%26A/en_US.md) for more information about the modpack.  
 
 ### 下载整合包 Download the modpack:  
