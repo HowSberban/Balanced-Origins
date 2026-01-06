@@ -1,3 +1,8 @@
+# Welcome to Q&A
+  Most of the introductions and questions will be listed here.  
+
+###[简体中文](https://github.com/HowSberban/Something/blob/main/Q%26A/zh_CN.md)  **English**
+
 ## Introduction
 Includes basic optimizations and partial OptiFine features, making the game more comfortable to play.  
 Version numbers follow the format **x.y.z**:  
