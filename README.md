@@ -1,6 +1,5 @@
 # Something
-一个用于存放我杂物的仓库。  
-欢迎提出任何 issue。  
+一个用于存放我杂物的仓库，欢迎提出任何 issue。  
 该仓库目前主要用于我的世界的 **BasicOptimized** 整合包。  
 它类似于 **Fabulously Optimized**，但添加或删除了杂七杂八的模组以提升游戏体验。  
 **不是 Fabulously Optimized 的分支，也与它没有任何关系！**  
