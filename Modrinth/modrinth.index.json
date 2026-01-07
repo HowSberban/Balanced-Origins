@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.0.0",
+  "versionId": "26.01.04",
   "name": "BasicOptimized 1.21.11",
   "files": [
     {
@@ -559,4 +559,5 @@
     "minecraft": "1.21.11",
     "fabric-loader": "0.18.4"
   }
+
 }
