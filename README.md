@@ -37,10 +37,10 @@
 
 [![Modrinth](https://img.shields.io/badge/Modrinth-GD656极致优化整合包-00AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/modpack/656youhua) 
 [![Modrinth](https://img.shields.io/badge/Modrinth-快速优化-00AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/modpack/rapid_optimization) 
-[![Modrinth](https://img.shields.io/badge/Modrinth-转变思路的优化-00AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/modpack/turbo_vulkan) 
-[![Modrinth](https://img.shields.io/badge/Modrinth-难以置信的优化-00AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/modpack/fabulously-optimized)  
+[![Modrinth](https://img.shields.io/badge/Modrinth-转变思路的优化-00AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/modpack/turbo_vulkan)  
+[![Modrinth](https://img.shields.io/badge/Modrinth-难以置信的优化-00AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/modpack/fabulously-optimized) 
 [![Modrinth](https://img.shields.io/badge/Modrinth-极简优化-00AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/modpack/mio-minimalism_optimized) 
-[![Modrinth](https://img.shields.io/badge/Modrinth-简单优化-00AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/modpack/sop) 
+[![Modrinth](https://img.shields.io/badge/Modrinth-简单优化-00AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/modpack/sop)  
 [![CurseForge](https://img.shields.io/badge/CurseForge-OptiMaxCraft-F16436?style=for-the-badge&logo=curseforge)](https://www.curseforge.com/minecraft/modpacks/optimaxcraft) 
 [![CurseForge](https://img.shields.io/badge/CurseForge-难以置信的优化-F16436?style=for-the-badge&logo=curseforge)](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized)
 
@@ -84,10 +84,10 @@
 If this one isn't right for you, here are some alternatives.
 
 [![Modrinth](https://img.shields.io/badge/Modrinth-GD656_Ultimate_Optimized-00AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/modpack/656youhua) 
-[![Modrinth](https://img.shields.io/badge/Modrinth-Rapid_Optimization-00AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/modpack/rapid_optimization) 
-[![Modrinth](https://img.shields.io/badge/Modrinth-New_Path_Optimization-00AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/modpack/turbo_vulkan)  
-[![Modrinth](https://img.shields.io/badge/Modrinth-Minimalism_Optimized-00AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/modpack/mio-minimalism_optimized) 
+[![Modrinth](https://img.shields.io/badge/Modrinth-Rapid_Optimization-00AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/modpack/rapid_optimization)  
+[![Modrinth](https://img.shields.io/badge/Modrinth-New_Path_Optimization-00AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/modpack/turbo_vulkan) 
+[![Modrinth](https://img.shields.io/badge/Modrinth-Minimalism_Optimized-00AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/modpack/mio-minimalism_optimized)  
 [![Modrinth](https://img.shields.io/badge/Modrinth-Fabulously_Optimized-00AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/modpack/fabulously-optimized) 
-[![CurseForge](https://img.shields.io/badge/CurseForge-Fabulously_Optimized-F16436?style=for-the-badge&logo=curseforge)](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized) 
+[![CurseForge](https://img.shields.io/badge/CurseForge-Fabulously_Optimized-F16436?style=for-the-badge&logo=curseforge)](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized)  
 [![Modrinth](https://img.shields.io/badge/Modrinth-Simply_Optimized-00AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/modpack/sop) 
 [![CurseForge](https://img.shields.io/badge/CurseForge-OptiMaxCraft-F16436?style=for-the-badge&logo=curseforge)](https://www.curseforge.com/minecraft/modpacks/optimaxcraft) 
