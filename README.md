@@ -1,13 +1,13 @@
 <div align="center">
-<h1>Basic Optimized</h1>
+<h1>Balanced Origins</h1>
   <h3><em>一个平衡性能与功能的整合包</em></h3>
 
-[![Modrinth](https://img.shields.io/badge/Modrinth-下载-00AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/modpack/basicoptimized) 
+[![Modrinth](https://img.shields.io/badge/Modrinth-下载-00AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/modpack/balancedorigins) 
 </div>
 
 ## 📖 简介
 
-**Basic Optimized** 是一个 Minecraft 的 Fabric 整合包（如果可能，未来将会有NeoForge），它出现的原因完全是因为我的朋友————他懒得配包。该整合包在保持游戏流畅运行的基础上，加入、移除了部分模组。与那些偏重于追求帧数的整合包不同，该整合包更注重**综合体验**——在优化性能的同时，也改善了游戏体验。
+**Balanced Origins** 是一个 Minecraft 的 Fabric 整合包（如果可能，未来将会有NeoForge），它出现的原因完全是因为我的朋友————他懒得配包。该整合包在保持游戏流畅运行的基础上，加入、移除了部分模组。与那些偏重于追求帧数的整合包不同，该整合包更注重**综合体验**——在优化性能的同时，也改善了游戏体验。
 
 ## 🆚 对比
 
@@ -50,15 +50,15 @@
 ---
 
 <div align="center">
-<h1>Basic Optimized</h1>
+<h1>Balanced Origins</h1>
   <h3><em>A Balanced Minecraft Modpack</em></h3>
 
-[![Modrinth](https://img.shields.io/badge/Modrinth-Download-00AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/modpack/basicoptimized) 
+[![Modrinth](https://img.shields.io/badge/Modrinth-Download-00AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/modpack/balancedorigins) 
 </div>
 
 ## 📖 Introduction
 
-**Basic Optimized** is a Fabric-based Minecraft modpack (with potential for a future NeoForge version), created purely because my friend was too lazy to configure his own pack. This pack aims to maintain smooth gameplay by adding and removing certain mods. Unlike packs that focus solely on chasing high FPS, this one prioritizes a **balanced experience**—optimizing performance while simultaneously improving overall gameplay quality.
+**Balanced Origins** is a Fabric-based Minecraft modpack (with potential for a future NeoForge version), created purely because my friend was too lazy to configure his own pack. This pack aims to maintain smooth gameplay by adding and removing certain mods. Unlike packs that focus solely on chasing high FPS, this one prioritizes a **balanced experience**—optimizing performance while simultaneously improving overall gameplay quality.
 
 ## 🆚 Compare
 
