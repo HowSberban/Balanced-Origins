@@ -30,9 +30,10 @@ Version numbers follow the format **Year.Month.Day**(like 26.01.04).
    An optimization mod. Ultra render distance is just an extra feature.  
    You can set this mod’s render distance to 32, while vanilla render distance is lowered to 12 or less.  
    This reduces far terrain quality for optimization, friendly for integrated graphics.  
-   If your CPU is extremely weak, please remove it, otherwise it may cause negative optimization.  
+   If your CPU is extremely weak, please remove it, otherwise it may cause negative optimization.
+   It can also remove the atmospheric fog from the vanilla Minecraft (I really don't like it).  
 
-4. **caramelChat (IME mod)**  
+5. **caramelChat (IME mod)**  
    Windows users can skip.  
    Some Linux and macOS systems are incompatible and may freeze. Please remove if needed.  
    You can check the mod’s [GitHub page](https://github.com/LemonCaramel/caramelChat) for system configuration.  
