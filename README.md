@@ -1,3 +1,6 @@
+我懒，这里有时不是最新的，请从Modrinth下载。  
+I'm lazy. This might not be the latest. Please download from Modrinth.
+
 <div align="center">
 <h1>Balanced Origins</h1>
   <h3><em>一个平衡性能与功能的整合包</em></h3>
